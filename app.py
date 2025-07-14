@@ -148,7 +148,7 @@ def send_reset_email(recipient_email, reset_token, recipient_name):
     """Send password reset email with secure token"""
     try:
         # Create reset link - update this URL when you deploy
-        base_url = "https://medical-dashboard-ronu.onrender.com/"  # 🔄 Change this to your deployed URL
+        base_url = "https://medical-dashboard-ronu.onrender.com"  # 🔄 Change this to your deployed URL
         reset_link = f"{base_url}/?reset_token={reset_token}"
         
         # Create email content
