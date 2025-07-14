@@ -65,13 +65,31 @@ def log_session_activity():
 def log_user_action(user_email, action, details=None):
     """Log user actions for experiment analytics"""
     if user_email:  # Only log for authenticated users
+        
+        # Convert pandas/numpy types to native Python types for JSON serialization
+        def make_json_serializable(obj):
+            """Convert pandas/numpy types to JSON-serializable types"""
+            if hasattr(obj, 'item'):  # numpy types
+                return obj.item()
+            elif hasattr(obj, 'to_pydatetime'):  # pandas datetime
+                return obj.to_pydatetime().isoformat()
+            elif isinstance(obj, dict):
+                return {k: make_json_serializable(v) for k, v in obj.items()}
+            elif isinstance(obj, (list, tuple)):
+                return [make_json_serializable(item) for item in obj]
+            else:
+                return obj
+        
+        # Clean the details dictionary
+        clean_details = make_json_serializable(details or {})
+        
         log_entry = {
             "timestamp": time.time(),
             "datetime": datetime.datetime.now().isoformat(),
             "session_id": st.session_state.get("session_id", "unknown"),
             "user_email": user_email,
             "action": action,
-            "details": details or {},
+            "details": clean_details,
             "page_mode": st.session_state.get("current_mode", "unknown")
         }
         
