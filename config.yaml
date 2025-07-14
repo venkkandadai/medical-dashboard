@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    demo@example.com:
+      name: Demo User
+      password: '$2b$12$KIX5.7W6cvM6V4peu6qBiOBfJddytXNE3xR1lSyHHRPtM8RMXxiFi'  # password = test123
+
+cookie:
+  name: dashboard_auth
+  key: some_signature_key
+  expiry_days: 7

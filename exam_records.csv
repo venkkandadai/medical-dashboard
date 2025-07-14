@@ -1,0 +1,1901 @@
+student_id,first_name,last_name,cohort_year,risk_profile,exam_type,exam_date,order_number,form_number,total_score,flag
+S0001,"Antonio,",Robinson,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,95,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,87,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,80,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,87,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,76,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,78,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,89,Green
+S0001,"Antonio,",Robinson,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,76,Green
+S0001,"Antonio,",Robinson,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,87,NA
+S0001,"Antonio,",Robinson,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,94,NA
+S0001,"Antonio,",Robinson,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,77,NA
+S0001,"Antonio,",Robinson,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,94,NA
+S0001,"Antonio,",Robinson,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,76,NA
+S0001,"Antonio,",Robinson,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,90,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,44,Red
+S0002,"Jareer,",el-Farran,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,51,Yellow
+S0002,"Jareer,",el-Farran,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,38,Red
+S0002,"Jareer,",el-Farran,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,31,Red
+S0002,"Jareer,",el-Farran,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,50,Yellow
+S0002,"Jareer,",el-Farran,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,49,Red
+S0002,"Jareer,",el-Farran,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,51,Yellow
+S0002,"Jareer,",el-Farran,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,32,Red
+S0002,"Jareer,",el-Farran,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,30,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,45,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,52,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,41,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,31,NA
+S0002,"Jareer,",el-Farran,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,40,NA
+S0003,"Fabian,",Guyon,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,58,Yellow
+S0003,"Fabian,",Guyon,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,61,Green
+S0003,"Fabian,",Guyon,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,67,Green
+S0003,"Fabian,",Guyon,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,70,Green
+S0003,"Fabian,",Guyon,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,66,Green
+S0003,"Fabian,",Guyon,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,69,Green
+S0003,"Fabian,",Guyon,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,62,Green
+S0003,"Fabian,",Guyon,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,73,Green
+S0003,"Fabian,",Guyon,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,75,NA
+S0003,"Fabian,",Guyon,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,70,NA
+S0003,"Fabian,",Guyon,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,55,NA
+S0003,"Fabian,",Guyon,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,65,NA
+S0003,"Fabian,",Guyon,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,71,NA
+S0003,"Fabian,",Guyon,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,59,NA
+S0004,"Camara,",Jones,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,76,Green
+S0004,"Camara,",Jones,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,85,Green
+S0004,"Camara,",Jones,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,86,Green
+S0004,"Camara,",Jones,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,92,Green
+S0004,"Camara,",Jones,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,90,Green
+S0004,"Camara,",Jones,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,86,Green
+S0004,"Camara,",Jones,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,76,Green
+S0004,"Camara,",Jones,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,78,Green
+S0004,"Camara,",Jones,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,89,NA
+S0004,"Camara,",Jones,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,77,NA
+S0004,"Camara,",Jones,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,79,NA
+S0004,"Camara,",Jones,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,82,NA
+S0004,"Camara,",Jones,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,92,NA
+S0004,"Camara,",Jones,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,80,NA
+S0005,"Brendan,",Nickerson,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,72,Green
+S0005,"Brendan,",Nickerson,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,63,Green
+S0005,"Brendan,",Nickerson,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,74,Green
+S0005,"Brendan,",Nickerson,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,63,Green
+S0005,"Brendan,",Nickerson,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,71,Green
+S0005,"Brendan,",Nickerson,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,55,Yellow
+S0005,"Brendan,",Nickerson,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,72,Green
+S0005,"Brendan,",Nickerson,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,56,Yellow
+S0005,"Brendan,",Nickerson,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,71,NA
+S0005,"Brendan,",Nickerson,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,67,NA
+S0005,"Brendan,",Nickerson,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,69,NA
+S0005,"Brendan,",Nickerson,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,69,NA
+S0005,"Brendan,",Nickerson,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,61,NA
+S0005,"Brendan,",Nickerson,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,68,NA
+S0006,"Janet,",Nguyen,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,61,Green
+S0006,"Janet,",Nguyen,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,66,Green
+S0006,"Janet,",Nguyen,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,56,Yellow
+S0006,"Janet,",Nguyen,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,62,Green
+S0006,"Janet,",Nguyen,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,65,Green
+S0006,"Janet,",Nguyen,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,66,Green
+S0006,"Janet,",Nguyen,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,71,Green
+S0006,"Janet,",Nguyen,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,65,Green
+S0006,"Janet,",Nguyen,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,72,NA
+S0006,"Janet,",Nguyen,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,67,NA
+S0006,"Janet,",Nguyen,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,66,NA
+S0006,"Janet,",Nguyen,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,68,NA
+S0006,"Janet,",Nguyen,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,61,NA
+S0006,"Janet,",Nguyen,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,66,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,75,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,73,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,70,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,72,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,73,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,67,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,62,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,70,Green
+S0007,"Muna,",el-Siddiqui,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,65,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,55,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,68,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,63,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,74,NA
+S0007,"Muna,",el-Siddiqui,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,58,NA
+S0008,"Nazeema,",el-Hares,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,63,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,73,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,71,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,65,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,55,Yellow
+S0008,"Nazeema,",el-Hares,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,60,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,61,Green
+S0008,"Nazeema,",el-Hares,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,68,Green
+S0008,"Nazeema,",el-Hares,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,57,NA
+S0008,"Nazeema,",el-Hares,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,74,NA
+S0008,"Nazeema,",el-Hares,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,72,NA
+S0008,"Nazeema,",el-Hares,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,61,NA
+S0008,"Nazeema,",el-Hares,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,64,NA
+S0008,"Nazeema,",el-Hares,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,62,NA
+S0009,"Devante,",Ruffin,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,62,Green
+S0009,"Devante,",Ruffin,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,61,Green
+S0009,"Devante,",Ruffin,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,73,Green
+S0009,"Devante,",Ruffin,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,61,Green
+S0009,"Devante,",Ruffin,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,72,Green
+S0009,"Devante,",Ruffin,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,71,Green
+S0009,"Devante,",Ruffin,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,59,Yellow
+S0009,"Devante,",Ruffin,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,60,Green
+S0009,"Devante,",Ruffin,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,68,NA
+S0009,"Devante,",Ruffin,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,64,NA
+S0009,"Devante,",Ruffin,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,57,NA
+S0009,"Devante,",Ruffin,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,58,NA
+S0009,"Devante,",Ruffin,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,61,NA
+S0009,"Devante,",Ruffin,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,67,NA
+S0010,"Naren,",Morfin,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,93,Green
+S0010,"Naren,",Morfin,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,79,Green
+S0010,"Naren,",Morfin,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,79,Green
+S0010,"Naren,",Morfin,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,92,Green
+S0010,"Naren,",Morfin,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,76,Green
+S0010,"Naren,",Morfin,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,80,Green
+S0010,"Naren,",Morfin,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,95,Green
+S0010,"Naren,",Morfin,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,89,Green
+S0010,"Naren,",Morfin,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,84,NA
+S0010,"Naren,",Morfin,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,83,NA
+S0010,"Naren,",Morfin,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,84,NA
+S0010,"Naren,",Morfin,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,91,NA
+S0010,"Naren,",Morfin,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,88,NA
+S0010,"Naren,",Morfin,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,84,NA
+S0011,"Madelyn,",Mulhern,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,63,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,73,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,55,Yellow
+S0011,"Madelyn,",Mulhern,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,61,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,64,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,66,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,73,Green
+S0011,"Madelyn,",Mulhern,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,65,Green
+S0011,"Madelyn,",Mulhern,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,70,NA
+S0011,"Madelyn,",Mulhern,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,67,NA
+S0011,"Madelyn,",Mulhern,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,59,NA
+S0011,"Madelyn,",Mulhern,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,65,NA
+S0011,"Madelyn,",Mulhern,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,56,NA
+S0011,"Madelyn,",Mulhern,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,70,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,48,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,45,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,31,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,41,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,46,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,50,Yellow
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,44,Red
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,52,Yellow
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,30,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,41,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,42,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,50,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,37,NA
+S0012,"Mardiyya,",al-Sheikh,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,45,NA
+S0013,"Hannah,",Ebersole,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,56,Yellow
+S0013,"Hannah,",Ebersole,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,71,Green
+S0013,"Hannah,",Ebersole,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,60,Green
+S0013,"Hannah,",Ebersole,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,65,Green
+S0013,"Hannah,",Ebersole,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,62,Green
+S0013,"Hannah,",Ebersole,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,57,Yellow
+S0013,"Hannah,",Ebersole,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,72,Green
+S0013,"Hannah,",Ebersole,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,67,Green
+S0013,"Hannah,",Ebersole,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,72,NA
+S0013,"Hannah,",Ebersole,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,58,NA
+S0013,"Hannah,",Ebersole,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,68,NA
+S0013,"Hannah,",Ebersole,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,67,NA
+S0013,"Hannah,",Ebersole,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,74,NA
+S0013,"Hannah,",Ebersole,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,67,NA
+S0014,"Yonathan,",Antonio,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,61,Green
+S0014,"Yonathan,",Antonio,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,74,Green
+S0014,"Yonathan,",Antonio,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,72,Green
+S0014,"Yonathan,",Antonio,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,63,Green
+S0014,"Yonathan,",Antonio,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,65,Green
+S0014,"Yonathan,",Antonio,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,70,Green
+S0014,"Yonathan,",Antonio,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,60,Green
+S0014,"Yonathan,",Antonio,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,71,Green
+S0014,"Yonathan,",Antonio,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,71,NA
+S0014,"Yonathan,",Antonio,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,63,NA
+S0014,"Yonathan,",Antonio,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,73,NA
+S0014,"Yonathan,",Antonio,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,56,NA
+S0014,"Yonathan,",Antonio,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,71,NA
+S0014,"Yonathan,",Antonio,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,65,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,40,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,50,Yellow
+S0015,"Cindy,",Fuentes,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,52,Yellow
+S0015,"Cindy,",Fuentes,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,43,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,38,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,44,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,38,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,34,Red
+S0015,"Cindy,",Fuentes,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,43,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,31,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,34,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,34,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,38,NA
+S0015,"Cindy,",Fuentes,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,39,NA
+S0016,"Martin,",Valencia,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,59,Yellow
+S0016,"Martin,",Valencia,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,69,Green
+S0016,"Martin,",Valencia,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,70,Green
+S0016,"Martin,",Valencia,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,68,Green
+S0016,"Martin,",Valencia,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,59,Yellow
+S0016,"Martin,",Valencia,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,74,Green
+S0016,"Martin,",Valencia,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,55,Yellow
+S0016,"Martin,",Valencia,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,73,Green
+S0016,"Martin,",Valencia,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,57,NA
+S0016,"Martin,",Valencia,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,72,NA
+S0016,"Martin,",Valencia,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,66,NA
+S0016,"Martin,",Valencia,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,67,NA
+S0016,"Martin,",Valencia,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,71,NA
+S0016,"Martin,",Valencia,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,60,NA
+S0017,"Farha,",al-Hatem,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,56,Yellow
+S0017,"Farha,",al-Hatem,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,58,Yellow
+S0017,"Farha,",al-Hatem,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,57,Yellow
+S0017,"Farha,",al-Hatem,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,59,Yellow
+S0017,"Farha,",al-Hatem,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,74,Green
+S0017,"Farha,",al-Hatem,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,59,Yellow
+S0017,"Farha,",al-Hatem,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,62,Green
+S0017,"Farha,",al-Hatem,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,69,Green
+S0017,"Farha,",al-Hatem,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,69,NA
+S0017,"Farha,",al-Hatem,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,61,NA
+S0017,"Farha,",al-Hatem,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,61,NA
+S0017,"Farha,",al-Hatem,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,64,NA
+S0017,"Farha,",al-Hatem,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,63,NA
+S0017,"Farha,",al-Hatem,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,73,NA
+S0018,"Ivan,",Grass,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,66,Green
+S0018,"Ivan,",Grass,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,67,Green
+S0018,"Ivan,",Grass,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,65,Green
+S0018,"Ivan,",Grass,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,65,Green
+S0018,"Ivan,",Grass,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,63,Green
+S0018,"Ivan,",Grass,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,59,Yellow
+S0018,"Ivan,",Grass,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,61,Green
+S0018,"Ivan,",Grass,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,60,Green
+S0018,"Ivan,",Grass,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,55,NA
+S0018,"Ivan,",Grass,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,59,NA
+S0018,"Ivan,",Grass,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,74,NA
+S0018,"Ivan,",Grass,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,64,NA
+S0018,"Ivan,",Grass,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,74,NA
+S0018,"Ivan,",Grass,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,60,NA
+S0019,"Devon,",Frazier,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,84,Green
+S0019,"Devon,",Frazier,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,94,Green
+S0019,"Devon,",Frazier,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,92,Green
+S0019,"Devon,",Frazier,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,79,Green
+S0019,"Devon,",Frazier,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,83,Green
+S0019,"Devon,",Frazier,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,83,Green
+S0019,"Devon,",Frazier,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,75,Green
+S0019,"Devon,",Frazier,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,83,Green
+S0019,"Devon,",Frazier,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,83,NA
+S0019,"Devon,",Frazier,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,79,NA
+S0019,"Devon,",Frazier,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,89,NA
+S0019,"Devon,",Frazier,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,75,NA
+S0019,"Devon,",Frazier,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,90,NA
+S0019,"Devon,",Frazier,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,84,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,52,Yellow
+S0020,"Amadou,",Iverson,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,40,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,42,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,43,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,31,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,40,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,42,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,44,Red
+S0020,"Amadou,",Iverson,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,47,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,47,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,52,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,47,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,43,NA
+S0020,"Amadou,",Iverson,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,38,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,66,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,56,Yellow
+S0021,"Joseph,",Rohrkaste,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,67,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,69,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,67,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,66,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,62,Green
+S0021,"Joseph,",Rohrkaste,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,57,Yellow
+S0021,"Joseph,",Rohrkaste,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,58,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,62,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,67,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,60,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,55,NA
+S0021,"Joseph,",Rohrkaste,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,61,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,35,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,38,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,38,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,49,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,44,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,34,Red
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,50,Yellow
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,53,Yellow
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,36,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,49,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,35,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,51,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,38,NA
+S0022,"Aqeela,",el-Shehadeh,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,49,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,33,Red
+S0023,"Johnathan,",Kuge,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,51,Yellow
+S0023,"Johnathan,",Kuge,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,51,Yellow
+S0023,"Johnathan,",Kuge,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,51,Yellow
+S0023,"Johnathan,",Kuge,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,30,Red
+S0023,"Johnathan,",Kuge,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,31,Red
+S0023,"Johnathan,",Kuge,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,37,Red
+S0023,"Johnathan,",Kuge,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,38,Red
+S0023,"Johnathan,",Kuge,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,32,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,48,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,31,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,51,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,43,NA
+S0023,"Johnathan,",Kuge,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,49,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,88,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,77,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,79,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,77,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,91,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,88,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,88,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,83,Green
+S0024,"Miguel,",Mcdowell,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,84,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,82,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,91,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,93,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,88,NA
+S0024,"Miguel,",Mcdowell,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,87,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,45,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,41,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,39,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,43,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,36,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,37,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,31,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,43,Red
+S0025,"Dakota,",Reddy,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,40,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,54,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,31,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,46,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,42,NA
+S0025,"Dakota,",Reddy,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,30,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,35,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,46,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,43,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,52,Yellow
+S0026,"Atreyu,",Christy,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,47,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,43,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,38,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,40,Red
+S0026,"Atreyu,",Christy,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,34,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,39,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,37,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,54,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,36,NA
+S0026,"Atreyu,",Christy,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,48,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,32,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,39,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,35,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,52,Yellow
+S0027,"Cyanna,",Felek,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,41,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,38,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,40,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,34,Red
+S0027,"Cyanna,",Felek,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,46,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,49,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,53,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,45,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,46,NA
+S0027,"Cyanna,",Felek,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,47,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,53,Yellow
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,55,Yellow
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,36,Red
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,37,Red
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,53,Yellow
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,39,Red
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,48,Red
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,51,Yellow
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,33,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,51,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,46,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,30,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,33,NA
+S0028,"Kayla,",Gutierrez-Solis,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,41,NA
+S0029,"Obed,",Romero,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,73,Green
+S0029,"Obed,",Romero,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,64,Green
+S0029,"Obed,",Romero,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,69,Green
+S0029,"Obed,",Romero,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,71,Green
+S0029,"Obed,",Romero,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,65,Green
+S0029,"Obed,",Romero,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,72,Green
+S0029,"Obed,",Romero,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,65,Green
+S0029,"Obed,",Romero,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,55,Yellow
+S0029,"Obed,",Romero,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,64,NA
+S0029,"Obed,",Romero,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,65,NA
+S0029,"Obed,",Romero,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,67,NA
+S0029,"Obed,",Romero,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,64,NA
+S0029,"Obed,",Romero,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,61,NA
+S0029,"Obed,",Romero,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,68,NA
+S0030,"Janea,",Chittum,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,67,Green
+S0030,"Janea,",Chittum,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,74,Green
+S0030,"Janea,",Chittum,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,59,Yellow
+S0030,"Janea,",Chittum,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,74,Green
+S0030,"Janea,",Chittum,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,67,Green
+S0030,"Janea,",Chittum,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,70,Green
+S0030,"Janea,",Chittum,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,72,Green
+S0030,"Janea,",Chittum,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,68,Green
+S0030,"Janea,",Chittum,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,69,NA
+S0030,"Janea,",Chittum,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,75,NA
+S0030,"Janea,",Chittum,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,72,NA
+S0030,"Janea,",Chittum,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,70,NA
+S0030,"Janea,",Chittum,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,58,NA
+S0030,"Janea,",Chittum,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,57,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,40,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,45,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,38,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,46,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,39,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,52,Yellow
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,40,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,41,Red
+S0031,"Nashat,",al-Arafat,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,52,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,46,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,30,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,46,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,36,NA
+S0031,"Nashat,",al-Arafat,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,54,NA
+S0032,"Madeeha,",el-Rad,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,66,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,63,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,63,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,73,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,68,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,74,Green
+S0032,"Madeeha,",el-Rad,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,58,Yellow
+S0032,"Madeeha,",el-Rad,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,66,Green
+S0032,"Madeeha,",el-Rad,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,57,NA
+S0032,"Madeeha,",el-Rad,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,67,NA
+S0032,"Madeeha,",el-Rad,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,60,NA
+S0032,"Madeeha,",el-Rad,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,65,NA
+S0032,"Madeeha,",el-Rad,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,65,NA
+S0032,"Madeeha,",el-Rad,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,72,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,77,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,87,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,95,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,87,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,80,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,76,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,76,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,92,Green
+S0033,"Raymond,",Sostenes,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,82,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,94,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,86,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,85,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,94,NA
+S0033,"Raymond,",Sostenes,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,77,NA
+S0034,"Jessica,",Marks,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,67,Green
+S0034,"Jessica,",Marks,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,68,Green
+S0034,"Jessica,",Marks,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,61,Green
+S0034,"Jessica,",Marks,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,62,Green
+S0034,"Jessica,",Marks,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,68,Green
+S0034,"Jessica,",Marks,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,74,Green
+S0034,"Jessica,",Marks,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,62,Green
+S0034,"Jessica,",Marks,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,59,Yellow
+S0034,"Jessica,",Marks,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,60,NA
+S0034,"Jessica,",Marks,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,65,NA
+S0034,"Jessica,",Marks,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,63,NA
+S0034,"Jessica,",Marks,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,62,NA
+S0034,"Jessica,",Marks,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,62,NA
+S0034,"Jessica,",Marks,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,69,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,72,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,64,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,67,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,65,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,68,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,69,Green
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,57,Yellow
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,57,Yellow
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,74,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,63,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,66,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,74,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,59,NA
+S0035,"Ghaaliba,",el-Yacoub,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,59,NA
+S0036,"Amir,",Boakye,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,94,Green
+S0036,"Amir,",Boakye,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,82,Green
+S0036,"Amir,",Boakye,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,94,Green
+S0036,"Amir,",Boakye,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,91,Green
+S0036,"Amir,",Boakye,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,91,Green
+S0036,"Amir,",Boakye,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,87,Green
+S0036,"Amir,",Boakye,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,94,Green
+S0036,"Amir,",Boakye,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,85,Green
+S0036,"Amir,",Boakye,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,93,NA
+S0036,"Amir,",Boakye,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,83,NA
+S0036,"Amir,",Boakye,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,84,NA
+S0036,"Amir,",Boakye,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,94,NA
+S0036,"Amir,",Boakye,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,89,NA
+S0036,"Amir,",Boakye,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,75,NA
+S0037,"Saul,",Martinez,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,62,Green
+S0037,"Saul,",Martinez,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,74,Green
+S0037,"Saul,",Martinez,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,56,Yellow
+S0037,"Saul,",Martinez,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,62,Green
+S0037,"Saul,",Martinez,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,58,Yellow
+S0037,"Saul,",Martinez,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,62,Green
+S0037,"Saul,",Martinez,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,65,Green
+S0037,"Saul,",Martinez,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,70,Green
+S0037,"Saul,",Martinez,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,71,NA
+S0037,"Saul,",Martinez,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,63,NA
+S0037,"Saul,",Martinez,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,56,NA
+S0037,"Saul,",Martinez,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,74,NA
+S0037,"Saul,",Martinez,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,73,NA
+S0037,"Saul,",Martinez,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,67,NA
+S0038,"Nathaniel,",Williams,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,73,Green
+S0038,"Nathaniel,",Williams,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,68,Green
+S0038,"Nathaniel,",Williams,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,58,Yellow
+S0038,"Nathaniel,",Williams,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,58,Yellow
+S0038,"Nathaniel,",Williams,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,69,Green
+S0038,"Nathaniel,",Williams,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,73,Green
+S0038,"Nathaniel,",Williams,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,58,Yellow
+S0038,"Nathaniel,",Williams,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,73,Green
+S0038,"Nathaniel,",Williams,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,64,NA
+S0038,"Nathaniel,",Williams,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,56,NA
+S0038,"Nathaniel,",Williams,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,71,NA
+S0038,"Nathaniel,",Williams,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,74,NA
+S0038,"Nathaniel,",Williams,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,71,NA
+S0038,"Nathaniel,",Williams,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,61,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,37,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,37,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,36,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,41,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,41,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,40,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,44,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,39,Red
+S0039,"Sebastian,",Brown,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,39,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,38,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,46,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,34,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,33,NA
+S0039,"Sebastian,",Brown,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,32,NA
+S0040,"Lauren,",Perez,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,32,Red
+S0040,"Lauren,",Perez,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,47,Red
+S0040,"Lauren,",Perez,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,54,Yellow
+S0040,"Lauren,",Perez,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,50,Yellow
+S0040,"Lauren,",Perez,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,46,Red
+S0040,"Lauren,",Perez,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,47,Red
+S0040,"Lauren,",Perez,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,39,Red
+S0040,"Lauren,",Perez,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,46,Red
+S0040,"Lauren,",Perez,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,40,NA
+S0040,"Lauren,",Perez,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,33,NA
+S0040,"Lauren,",Perez,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,50,NA
+S0040,"Lauren,",Perez,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,52,NA
+S0040,"Lauren,",Perez,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,40,NA
+S0040,"Lauren,",Perez,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,46,NA
+S0041,"Michael,",Gonzales,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,56,Yellow
+S0041,"Michael,",Gonzales,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,65,Green
+S0041,"Michael,",Gonzales,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,72,Green
+S0041,"Michael,",Gonzales,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,61,Green
+S0041,"Michael,",Gonzales,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,62,Green
+S0041,"Michael,",Gonzales,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,73,Green
+S0041,"Michael,",Gonzales,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,57,Yellow
+S0041,"Michael,",Gonzales,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,65,Green
+S0041,"Michael,",Gonzales,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,63,NA
+S0041,"Michael,",Gonzales,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,58,NA
+S0041,"Michael,",Gonzales,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,64,NA
+S0041,"Michael,",Gonzales,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,58,NA
+S0041,"Michael,",Gonzales,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,72,NA
+S0041,"Michael,",Gonzales,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,69,NA
+S0042,"Danielle,",Salazar,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,57,Yellow
+S0042,"Danielle,",Salazar,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,57,Yellow
+S0042,"Danielle,",Salazar,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,61,Green
+S0042,"Danielle,",Salazar,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,74,Green
+S0042,"Danielle,",Salazar,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,74,Green
+S0042,"Danielle,",Salazar,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,59,Yellow
+S0042,"Danielle,",Salazar,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,73,Green
+S0042,"Danielle,",Salazar,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,56,Yellow
+S0042,"Danielle,",Salazar,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,73,NA
+S0042,"Danielle,",Salazar,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,56,NA
+S0042,"Danielle,",Salazar,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,74,NA
+S0042,"Danielle,",Salazar,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,58,NA
+S0042,"Danielle,",Salazar,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,67,NA
+S0042,"Danielle,",Salazar,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,69,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,88,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,80,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,90,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,81,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,93,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,92,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,84,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,76,Green
+S0043,"Randa,",al-Suleiman,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,87,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,87,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,95,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,82,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,88,NA
+S0043,"Randa,",al-Suleiman,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,94,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,30,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,31,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,38,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,33,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,33,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,41,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,40,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,37,Red
+S0044,"Jonathan,",Frost,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,40,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,44,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,36,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,31,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,54,NA
+S0044,"Jonathan,",Frost,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,34,NA
+S0045,"Tyme,",Gu,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,45,Red
+S0045,"Tyme,",Gu,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,53,Yellow
+S0045,"Tyme,",Gu,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,55,Yellow
+S0045,"Tyme,",Gu,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,45,Red
+S0045,"Tyme,",Gu,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,50,Yellow
+S0045,"Tyme,",Gu,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,32,Red
+S0045,"Tyme,",Gu,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,33,Red
+S0045,"Tyme,",Gu,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,33,Red
+S0045,"Tyme,",Gu,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,36,NA
+S0045,"Tyme,",Gu,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,38,NA
+S0045,"Tyme,",Gu,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,45,NA
+S0045,"Tyme,",Gu,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,35,NA
+S0045,"Tyme,",Gu,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,37,NA
+S0045,"Tyme,",Gu,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,32,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,81,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,87,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,86,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,95,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,80,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,90,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,95,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,86,Green
+S0046,"Micaiah,",Lopez,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,83,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,91,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,77,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,86,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,84,NA
+S0046,"Micaiah,",Lopez,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,80,NA
+S0047,"David,",Arjon,2023,At-Risk,CBSE,2021-10-15,OB-20211015-1,NA,51,Yellow
+S0047,"David,",Arjon,2023,At-Risk,CBSE,2022-02-10,OB-20220210-1,NA,47,Red
+S0047,"David,",Arjon,2023,At-Risk,CBSSA,2022-04-20,OB-20220420-1,25,42,Red
+S0047,"David,",Arjon,2023,At-Risk,CBSSA,2022-05-25,OB-20220525-1,30,51,Yellow
+S0047,"David,",Arjon,2023,At-Risk,CCSE,2023-01-20,OB-20230120-1,NA,49,Red
+S0047,"David,",Arjon,2023,At-Risk,CCSE,2023-05-01,OB-20230501-1,NA,40,Red
+S0047,"David,",Arjon,2023,At-Risk,CCSSA,2023-06-01,OB-20230601-1,9,55,Yellow
+S0047,"David,",Arjon,2023,At-Risk,CCSSA,2023-06-25,OB-20230625-1,10,35,Red
+S0047,"David,",Arjon,2023,At-Risk,Family Medicine,2022-08-15,OB-20220815-1,NA,54,NA
+S0047,"David,",Arjon,2023,At-Risk,Internal Medicine,2022-10-10,OB-20221010-1,NA,41,NA
+S0047,"David,",Arjon,2023,At-Risk,Surgery,2023-01-10,OB-20230110-1,NA,38,NA
+S0047,"David,",Arjon,2023,At-Risk,ObGyn,2023-03-20,OB-20230320-1,NA,51,NA
+S0047,"David,",Arjon,2023,At-Risk,CAS Proctored,2022-11-15,OB-20221115-1,1,48,NA
+S0047,"David,",Arjon,2023,At-Risk,CAS Proctored,2023-03-15,OB-20230315-1,2,44,NA
+S0048,"Mariah,",Thomas,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,58,Yellow
+S0048,"Mariah,",Thomas,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,60,Green
+S0048,"Mariah,",Thomas,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,73,Green
+S0048,"Mariah,",Thomas,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,62,Green
+S0048,"Mariah,",Thomas,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,75,Green
+S0048,"Mariah,",Thomas,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,70,Green
+S0048,"Mariah,",Thomas,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,58,Yellow
+S0048,"Mariah,",Thomas,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,67,Green
+S0048,"Mariah,",Thomas,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,72,NA
+S0048,"Mariah,",Thomas,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,70,NA
+S0048,"Mariah,",Thomas,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,64,NA
+S0048,"Mariah,",Thomas,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,65,NA
+S0048,"Mariah,",Thomas,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,66,NA
+S0048,"Mariah,",Thomas,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,59,NA
+S0049,"Nicholas,",Yazzie,2023,Average,CBSE,2021-10-15,OB-20211015-1,NA,73,Green
+S0049,"Nicholas,",Yazzie,2023,Average,CBSE,2022-02-10,OB-20220210-1,NA,58,Yellow
+S0049,"Nicholas,",Yazzie,2023,Average,CBSSA,2022-04-20,OB-20220420-1,25,67,Green
+S0049,"Nicholas,",Yazzie,2023,Average,CBSSA,2022-05-25,OB-20220525-1,30,65,Green
+S0049,"Nicholas,",Yazzie,2023,Average,CCSE,2023-01-20,OB-20230120-1,NA,59,Yellow
+S0049,"Nicholas,",Yazzie,2023,Average,CCSE,2023-05-01,OB-20230501-1,NA,75,Green
+S0049,"Nicholas,",Yazzie,2023,Average,CCSSA,2023-06-01,OB-20230601-1,9,61,Green
+S0049,"Nicholas,",Yazzie,2023,Average,CCSSA,2023-06-25,OB-20230625-1,10,56,Yellow
+S0049,"Nicholas,",Yazzie,2023,Average,Family Medicine,2022-08-15,OB-20220815-1,NA,70,NA
+S0049,"Nicholas,",Yazzie,2023,Average,Internal Medicine,2022-10-10,OB-20221010-1,NA,66,NA
+S0049,"Nicholas,",Yazzie,2023,Average,Surgery,2023-01-10,OB-20230110-1,NA,55,NA
+S0049,"Nicholas,",Yazzie,2023,Average,ObGyn,2023-03-20,OB-20230320-1,NA,61,NA
+S0049,"Nicholas,",Yazzie,2023,Average,CAS Proctored,2022-11-15,OB-20221115-1,1,72,NA
+S0049,"Nicholas,",Yazzie,2023,Average,CAS Proctored,2023-03-15,OB-20230315-1,2,60,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CBSE,2021-10-15,OB-20211015-1,NA,76,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CBSE,2022-02-10,OB-20220210-1,NA,92,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CBSSA,2022-04-20,OB-20220420-1,25,78,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CBSSA,2022-05-25,OB-20220525-1,30,88,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CCSE,2023-01-20,OB-20230120-1,NA,92,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CCSE,2023-05-01,OB-20230501-1,NA,80,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CCSSA,2023-06-01,OB-20230601-1,9,78,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CCSSA,2023-06-25,OB-20230625-1,10,90,Green
+S0050,"Nadeem,",el-Odeh,2023,High Performer,Family Medicine,2022-08-15,OB-20220815-1,NA,79,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,Internal Medicine,2022-10-10,OB-20221010-1,NA,80,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,Surgery,2023-01-10,OB-20230110-1,NA,86,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,ObGyn,2023-03-20,OB-20230320-1,NA,84,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CAS Proctored,2022-11-15,OB-20221115-1,1,82,NA
+S0050,"Nadeem,",el-Odeh,2023,High Performer,CAS Proctored,2023-03-15,OB-20230315-1,2,91,NA
+S0051,"Cara,",Crane,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,31,Red
+S0051,"Cara,",Crane,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,42,Red
+S0051,"Cara,",Crane,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,34,Red
+S0051,"Cara,",Crane,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,50,Yellow
+S0051,"Cara,",Crane,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,40,Red
+S0051,"Cara,",Crane,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,53,Yellow
+S0051,"Cara,",Crane,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,48,Red
+S0051,"Cara,",Crane,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,41,Red
+S0051,"Cara,",Crane,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,50,NA
+S0051,"Cara,",Crane,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,39,NA
+S0051,"Cara,",Crane,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,40,NA
+S0051,"Cara,",Crane,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,47,NA
+S0051,"Cara,",Crane,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,41,NA
+S0051,"Cara,",Crane,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,48,NA
+S0052,"Ian,",Chorpenning,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,60,Green
+S0052,"Ian,",Chorpenning,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,62,Green
+S0052,"Ian,",Chorpenning,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,73,Green
+S0052,"Ian,",Chorpenning,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,59,Yellow
+S0052,"Ian,",Chorpenning,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,55,Yellow
+S0052,"Ian,",Chorpenning,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,69,Green
+S0052,"Ian,",Chorpenning,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,56,Yellow
+S0052,"Ian,",Chorpenning,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,71,Green
+S0052,"Ian,",Chorpenning,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,73,NA
+S0052,"Ian,",Chorpenning,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,58,NA
+S0052,"Ian,",Chorpenning,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,59,NA
+S0052,"Ian,",Chorpenning,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,71,NA
+S0052,"Ian,",Chorpenning,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,73,NA
+S0052,"Ian,",Chorpenning,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,60,NA
+S0053,"Riley,",Su,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,64,Green
+S0053,"Riley,",Su,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,63,Green
+S0053,"Riley,",Su,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0053,"Riley,",Su,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,61,Green
+S0053,"Riley,",Su,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,71,Green
+S0053,"Riley,",Su,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,62,Green
+S0053,"Riley,",Su,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,60,Green
+S0053,"Riley,",Su,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,55,Yellow
+S0053,"Riley,",Su,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,63,NA
+S0053,"Riley,",Su,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,67,NA
+S0053,"Riley,",Su,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,62,NA
+S0053,"Riley,",Su,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,59,NA
+S0053,"Riley,",Su,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,75,NA
+S0053,"Riley,",Su,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,60,NA
+S0054,"Northern,",Dean,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,66,Green
+S0054,"Northern,",Dean,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,58,Yellow
+S0054,"Northern,",Dean,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,69,Green
+S0054,"Northern,",Dean,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,64,Green
+S0054,"Northern,",Dean,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,62,Green
+S0054,"Northern,",Dean,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,63,Green
+S0054,"Northern,",Dean,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,63,Green
+S0054,"Northern,",Dean,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,72,Green
+S0054,"Northern,",Dean,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,73,NA
+S0054,"Northern,",Dean,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,70,NA
+S0054,"Northern,",Dean,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,62,NA
+S0054,"Northern,",Dean,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,69,NA
+S0054,"Northern,",Dean,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,65,NA
+S0054,"Northern,",Dean,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,55,NA
+S0055,"Peter,",Rose,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,68,Green
+S0055,"Peter,",Rose,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,67,Green
+S0055,"Peter,",Rose,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,62,Green
+S0055,"Peter,",Rose,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,56,Yellow
+S0055,"Peter,",Rose,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,74,Green
+S0055,"Peter,",Rose,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,75,Green
+S0055,"Peter,",Rose,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,57,Yellow
+S0055,"Peter,",Rose,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,66,Green
+S0055,"Peter,",Rose,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,75,NA
+S0055,"Peter,",Rose,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,57,NA
+S0055,"Peter,",Rose,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,62,NA
+S0055,"Peter,",Rose,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,65,NA
+S0055,"Peter,",Rose,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,73,NA
+S0055,"Peter,",Rose,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,66,NA
+S0056,"Laila,",el-Ismail,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,55,Yellow
+S0056,"Laila,",el-Ismail,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,72,Green
+S0056,"Laila,",el-Ismail,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,72,Green
+S0056,"Laila,",el-Ismail,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,73,Green
+S0056,"Laila,",el-Ismail,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,71,Green
+S0056,"Laila,",el-Ismail,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,55,Yellow
+S0056,"Laila,",el-Ismail,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,57,Yellow
+S0056,"Laila,",el-Ismail,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,72,Green
+S0056,"Laila,",el-Ismail,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,59,NA
+S0056,"Laila,",el-Ismail,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,56,NA
+S0056,"Laila,",el-Ismail,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,67,NA
+S0056,"Laila,",el-Ismail,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,70,NA
+S0056,"Laila,",el-Ismail,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,72,NA
+S0056,"Laila,",el-Ismail,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,56,NA
+S0057,"Muhjar,",al-Masih,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,59,Yellow
+S0057,"Muhjar,",al-Masih,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,63,Green
+S0057,"Muhjar,",al-Masih,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,63,Green
+S0057,"Muhjar,",al-Masih,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,67,Green
+S0057,"Muhjar,",al-Masih,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,74,Green
+S0057,"Muhjar,",al-Masih,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,75,Green
+S0057,"Muhjar,",al-Masih,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,58,Yellow
+S0057,"Muhjar,",al-Masih,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,60,Green
+S0057,"Muhjar,",al-Masih,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,72,NA
+S0057,"Muhjar,",al-Masih,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,75,NA
+S0057,"Muhjar,",al-Masih,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,68,NA
+S0057,"Muhjar,",al-Masih,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,57,NA
+S0057,"Muhjar,",al-Masih,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,58,NA
+S0057,"Muhjar,",al-Masih,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,62,NA
+S0058,"Trent,",Navakuku,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,60,Green
+S0058,"Trent,",Navakuku,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,60,Green
+S0058,"Trent,",Navakuku,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,71,Green
+S0058,"Trent,",Navakuku,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,58,Yellow
+S0058,"Trent,",Navakuku,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,67,Green
+S0058,"Trent,",Navakuku,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,69,Green
+S0058,"Trent,",Navakuku,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,73,Green
+S0058,"Trent,",Navakuku,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,69,Green
+S0058,"Trent,",Navakuku,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,60,NA
+S0058,"Trent,",Navakuku,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,55,NA
+S0058,"Trent,",Navakuku,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,56,NA
+S0058,"Trent,",Navakuku,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,58,NA
+S0058,"Trent,",Navakuku,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,72,NA
+S0058,"Trent,",Navakuku,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,56,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,31,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,41,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,47,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,50,Yellow
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,34,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,44,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,41,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,48,Red
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,41,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,41,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,49,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,36,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,42,NA
+S0059,"Jaqueline,",Madrigal,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,36,NA
+S0060,"Nicholas,",Siminoe,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,67,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,75,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,60,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,63,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,57,Yellow
+S0060,"Nicholas,",Siminoe,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,61,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,66,Green
+S0060,"Nicholas,",Siminoe,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,61,Green
+S0060,"Nicholas,",Siminoe,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,67,NA
+S0060,"Nicholas,",Siminoe,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,75,NA
+S0060,"Nicholas,",Siminoe,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,67,NA
+S0060,"Nicholas,",Siminoe,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,58,NA
+S0060,"Nicholas,",Siminoe,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,69,NA
+S0060,"Nicholas,",Siminoe,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,69,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,61,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,63,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,61,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,72,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,67,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,71,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,61,Green
+S0061,"Jose,",Puentes-Rizo,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,58,Yellow
+S0061,"Jose,",Puentes-Rizo,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,73,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,55,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,66,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,74,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,60,NA
+S0061,"Jose,",Puentes-Rizo,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,75,NA
+S0062,"Ariel,",Smith,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,79,Green
+S0062,"Ariel,",Smith,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,85,Green
+S0062,"Ariel,",Smith,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,85,Green
+S0062,"Ariel,",Smith,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,79,Green
+S0062,"Ariel,",Smith,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,90,Green
+S0062,"Ariel,",Smith,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,75,Green
+S0062,"Ariel,",Smith,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,89,Green
+S0062,"Ariel,",Smith,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,92,Green
+S0062,"Ariel,",Smith,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,94,NA
+S0062,"Ariel,",Smith,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,88,NA
+S0062,"Ariel,",Smith,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,80,NA
+S0062,"Ariel,",Smith,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,79,NA
+S0062,"Ariel,",Smith,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,92,NA
+S0062,"Ariel,",Smith,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,75,NA
+S0063,"Kathryn,",Hardman,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,70,Green
+S0063,"Kathryn,",Hardman,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,67,Green
+S0063,"Kathryn,",Hardman,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,63,Green
+S0063,"Kathryn,",Hardman,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,68,Green
+S0063,"Kathryn,",Hardman,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,72,Green
+S0063,"Kathryn,",Hardman,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,64,Green
+S0063,"Kathryn,",Hardman,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,57,Yellow
+S0063,"Kathryn,",Hardman,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,67,Green
+S0063,"Kathryn,",Hardman,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,65,NA
+S0063,"Kathryn,",Hardman,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,73,NA
+S0063,"Kathryn,",Hardman,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,60,NA
+S0063,"Kathryn,",Hardman,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,71,NA
+S0063,"Kathryn,",Hardman,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,70,NA
+S0063,"Kathryn,",Hardman,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,69,NA
+S0064,"Bishr,",el-Nasir,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,66,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,67,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,72,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,65,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,75,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,56,Yellow
+S0064,"Bishr,",el-Nasir,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,66,Green
+S0064,"Bishr,",el-Nasir,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,59,Yellow
+S0064,"Bishr,",el-Nasir,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,61,NA
+S0064,"Bishr,",el-Nasir,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,72,NA
+S0064,"Bishr,",el-Nasir,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,59,NA
+S0064,"Bishr,",el-Nasir,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,67,NA
+S0064,"Bishr,",el-Nasir,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,63,NA
+S0064,"Bishr,",el-Nasir,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,61,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,41,Red
+S0065,"Michael,",Gochanour,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,49,Red
+S0065,"Michael,",Gochanour,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,53,Yellow
+S0065,"Michael,",Gochanour,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,51,Yellow
+S0065,"Michael,",Gochanour,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,54,Yellow
+S0065,"Michael,",Gochanour,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,39,Red
+S0065,"Michael,",Gochanour,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,31,Red
+S0065,"Michael,",Gochanour,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,37,Red
+S0065,"Michael,",Gochanour,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,55,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,41,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,55,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,48,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,37,NA
+S0065,"Michael,",Gochanour,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,53,NA
+S0066,"Emily,",Foerster,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,90,Green
+S0066,"Emily,",Foerster,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,84,Green
+S0066,"Emily,",Foerster,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,78,Green
+S0066,"Emily,",Foerster,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,84,Green
+S0066,"Emily,",Foerster,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,79,Green
+S0066,"Emily,",Foerster,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,84,Green
+S0066,"Emily,",Foerster,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,91,Green
+S0066,"Emily,",Foerster,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,76,Green
+S0066,"Emily,",Foerster,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,82,NA
+S0066,"Emily,",Foerster,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,92,NA
+S0066,"Emily,",Foerster,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,76,NA
+S0066,"Emily,",Foerster,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,91,NA
+S0066,"Emily,",Foerster,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,94,NA
+S0066,"Emily,",Foerster,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,88,NA
+S0067,"Michael,",Lee,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,70,Green
+S0067,"Michael,",Lee,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,72,Green
+S0067,"Michael,",Lee,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,56,Yellow
+S0067,"Michael,",Lee,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,73,Green
+S0067,"Michael,",Lee,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,63,Green
+S0067,"Michael,",Lee,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,69,Green
+S0067,"Michael,",Lee,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,69,Green
+S0067,"Michael,",Lee,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,69,Green
+S0067,"Michael,",Lee,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,61,NA
+S0067,"Michael,",Lee,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,61,NA
+S0067,"Michael,",Lee,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,65,NA
+S0067,"Michael,",Lee,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,56,NA
+S0067,"Michael,",Lee,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,65,NA
+S0067,"Michael,",Lee,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,67,NA
+S0068,"Devon,",Safi,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,52,Yellow
+S0068,"Devon,",Safi,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,53,Yellow
+S0068,"Devon,",Safi,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,50,Yellow
+S0068,"Devon,",Safi,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,53,Yellow
+S0068,"Devon,",Safi,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,41,Red
+S0068,"Devon,",Safi,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,40,Red
+S0068,"Devon,",Safi,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,39,Red
+S0068,"Devon,",Safi,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,43,Red
+S0068,"Devon,",Safi,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,32,NA
+S0068,"Devon,",Safi,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,48,NA
+S0068,"Devon,",Safi,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,36,NA
+S0068,"Devon,",Safi,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,51,NA
+S0068,"Devon,",Safi,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,55,NA
+S0068,"Devon,",Safi,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,33,NA
+S0069,"Matias,",Stevens,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,42,Red
+S0069,"Matias,",Stevens,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,47,Red
+S0069,"Matias,",Stevens,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,50,Yellow
+S0069,"Matias,",Stevens,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,49,Red
+S0069,"Matias,",Stevens,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,41,Red
+S0069,"Matias,",Stevens,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,53,Yellow
+S0069,"Matias,",Stevens,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,48,Red
+S0069,"Matias,",Stevens,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,38,Red
+S0069,"Matias,",Stevens,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,42,NA
+S0069,"Matias,",Stevens,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,54,NA
+S0069,"Matias,",Stevens,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,53,NA
+S0069,"Matias,",Stevens,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,36,NA
+S0069,"Matias,",Stevens,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,38,NA
+S0069,"Matias,",Stevens,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,39,NA
+S0070,"Andy,",Tran,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,74,Green
+S0070,"Andy,",Tran,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,74,Green
+S0070,"Andy,",Tran,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0070,"Andy,",Tran,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,71,Green
+S0070,"Andy,",Tran,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,66,Green
+S0070,"Andy,",Tran,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,56,Yellow
+S0070,"Andy,",Tran,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,61,Green
+S0070,"Andy,",Tran,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,65,Green
+S0070,"Andy,",Tran,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,64,NA
+S0070,"Andy,",Tran,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,74,NA
+S0070,"Andy,",Tran,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,68,NA
+S0070,"Andy,",Tran,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,55,NA
+S0070,"Andy,",Tran,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,55,NA
+S0070,"Andy,",Tran,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,61,NA
+S0071,"Katarina,",Henning,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,60,Green
+S0071,"Katarina,",Henning,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,72,Green
+S0071,"Katarina,",Henning,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,69,Green
+S0071,"Katarina,",Henning,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,69,Green
+S0071,"Katarina,",Henning,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,63,Green
+S0071,"Katarina,",Henning,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,59,Yellow
+S0071,"Katarina,",Henning,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,59,Yellow
+S0071,"Katarina,",Henning,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,69,Green
+S0071,"Katarina,",Henning,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,60,NA
+S0071,"Katarina,",Henning,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,60,NA
+S0071,"Katarina,",Henning,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,67,NA
+S0071,"Katarina,",Henning,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,58,NA
+S0071,"Katarina,",Henning,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,56,NA
+S0071,"Katarina,",Henning,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,55,NA
+S0072,"Cody,",Peters,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,31,Red
+S0072,"Cody,",Peters,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,36,Red
+S0072,"Cody,",Peters,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,30,Red
+S0072,"Cody,",Peters,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,35,Red
+S0072,"Cody,",Peters,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,43,Red
+S0072,"Cody,",Peters,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,38,Red
+S0072,"Cody,",Peters,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,49,Red
+S0072,"Cody,",Peters,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,54,Yellow
+S0072,"Cody,",Peters,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,36,NA
+S0072,"Cody,",Peters,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,54,NA
+S0072,"Cody,",Peters,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,32,NA
+S0072,"Cody,",Peters,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,48,NA
+S0072,"Cody,",Peters,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,37,NA
+S0072,"Cody,",Peters,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,37,NA
+S0073,"David,",Strange,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,64,Green
+S0073,"David,",Strange,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,64,Green
+S0073,"David,",Strange,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,63,Green
+S0073,"David,",Strange,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,75,Green
+S0073,"David,",Strange,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,55,Yellow
+S0073,"David,",Strange,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,72,Green
+S0073,"David,",Strange,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,57,Yellow
+S0073,"David,",Strange,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,59,Yellow
+S0073,"David,",Strange,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,64,NA
+S0073,"David,",Strange,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,70,NA
+S0073,"David,",Strange,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,59,NA
+S0073,"David,",Strange,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,58,NA
+S0073,"David,",Strange,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,59,NA
+S0073,"David,",Strange,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,58,NA
+S0074,"Zacharias,",Olson,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,72,Green
+S0074,"Zacharias,",Olson,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,70,Green
+S0074,"Zacharias,",Olson,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,66,Green
+S0074,"Zacharias,",Olson,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,72,Green
+S0074,"Zacharias,",Olson,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,58,Yellow
+S0074,"Zacharias,",Olson,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,63,Green
+S0074,"Zacharias,",Olson,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,61,Green
+S0074,"Zacharias,",Olson,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,56,Yellow
+S0074,"Zacharias,",Olson,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,63,NA
+S0074,"Zacharias,",Olson,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,69,NA
+S0074,"Zacharias,",Olson,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,60,NA
+S0074,"Zacharias,",Olson,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,68,NA
+S0074,"Zacharias,",Olson,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,58,NA
+S0074,"Zacharias,",Olson,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,70,NA
+S0075,"Jack,",Davison,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,45,Red
+S0075,"Jack,",Davison,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,36,Red
+S0075,"Jack,",Davison,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,41,Red
+S0075,"Jack,",Davison,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,33,Red
+S0075,"Jack,",Davison,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,30,Red
+S0075,"Jack,",Davison,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,32,Red
+S0075,"Jack,",Davison,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,36,Red
+S0075,"Jack,",Davison,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,34,Red
+S0075,"Jack,",Davison,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,51,NA
+S0075,"Jack,",Davison,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,40,NA
+S0075,"Jack,",Davison,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,44,NA
+S0075,"Jack,",Davison,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,45,NA
+S0075,"Jack,",Davison,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,32,NA
+S0075,"Jack,",Davison,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,49,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,93,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,82,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,86,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,75,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,82,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,88,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,87,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,91,Green
+S0076,"Sirena,",Sanchez,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,77,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,88,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,79,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,87,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,89,NA
+S0076,"Sirena,",Sanchez,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,86,NA
+S0077,"Michelle,",April,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,30,Red
+S0077,"Michelle,",April,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,36,Red
+S0077,"Michelle,",April,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,42,Red
+S0077,"Michelle,",April,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,52,Yellow
+S0077,"Michelle,",April,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,37,Red
+S0077,"Michelle,",April,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,37,Red
+S0077,"Michelle,",April,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,55,Yellow
+S0077,"Michelle,",April,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,42,Red
+S0077,"Michelle,",April,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,30,NA
+S0077,"Michelle,",April,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,32,NA
+S0077,"Michelle,",April,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,53,NA
+S0077,"Michelle,",April,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,42,NA
+S0077,"Michelle,",April,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,51,NA
+S0077,"Michelle,",April,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,51,NA
+S0078,"Daleel,",el-Safar,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,61,Green
+S0078,"Daleel,",el-Safar,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,56,Yellow
+S0078,"Daleel,",el-Safar,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,66,Green
+S0078,"Daleel,",el-Safar,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,61,Green
+S0078,"Daleel,",el-Safar,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,65,Green
+S0078,"Daleel,",el-Safar,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,71,Green
+S0078,"Daleel,",el-Safar,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,59,Yellow
+S0078,"Daleel,",el-Safar,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,57,Yellow
+S0078,"Daleel,",el-Safar,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,71,NA
+S0078,"Daleel,",el-Safar,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,58,NA
+S0078,"Daleel,",el-Safar,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,71,NA
+S0078,"Daleel,",el-Safar,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,56,NA
+S0078,"Daleel,",el-Safar,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,72,NA
+S0078,"Daleel,",el-Safar,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,71,NA
+S0079,"Parisa,",Mark,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,73,Green
+S0079,"Parisa,",Mark,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,62,Green
+S0079,"Parisa,",Mark,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,61,Green
+S0079,"Parisa,",Mark,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,73,Green
+S0079,"Parisa,",Mark,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,61,Green
+S0079,"Parisa,",Mark,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,74,Green
+S0079,"Parisa,",Mark,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,67,Green
+S0079,"Parisa,",Mark,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,67,Green
+S0079,"Parisa,",Mark,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,70,NA
+S0079,"Parisa,",Mark,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,63,NA
+S0079,"Parisa,",Mark,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,62,NA
+S0079,"Parisa,",Mark,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,64,NA
+S0079,"Parisa,",Mark,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,62,NA
+S0079,"Parisa,",Mark,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,69,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,44,Red
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,50,Yellow
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,50,Yellow
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,37,Red
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,37,Red
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,36,Red
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,52,Yellow
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,48,Red
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,34,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,51,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,46,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,44,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,31,NA
+S0080,"Nekyah,",Williams-Perkins,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,37,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,45,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,54,Yellow
+S0081,"Taylor,",Quenzer,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,31,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,41,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,40,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,43,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,31,Red
+S0081,"Taylor,",Quenzer,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,52,Yellow
+S0081,"Taylor,",Quenzer,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,37,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,42,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,35,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,53,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,48,NA
+S0081,"Taylor,",Quenzer,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,40,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,37,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,48,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,36,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,37,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,52,Yellow
+S0082,"Krislynn,",Tall,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,42,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,54,Yellow
+S0082,"Krislynn,",Tall,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,49,Red
+S0082,"Krislynn,",Tall,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,52,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,44,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,32,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,43,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,52,NA
+S0082,"Krislynn,",Tall,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,31,NA
+S0083,"Cody,",Harris,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,74,Green
+S0083,"Cody,",Harris,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,59,Yellow
+S0083,"Cody,",Harris,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0083,"Cody,",Harris,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,57,Yellow
+S0083,"Cody,",Harris,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,65,Green
+S0083,"Cody,",Harris,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,70,Green
+S0083,"Cody,",Harris,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,55,Yellow
+S0083,"Cody,",Harris,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,58,Yellow
+S0083,"Cody,",Harris,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,57,NA
+S0083,"Cody,",Harris,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,71,NA
+S0083,"Cody,",Harris,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,62,NA
+S0083,"Cody,",Harris,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,68,NA
+S0083,"Cody,",Harris,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,70,NA
+S0083,"Cody,",Harris,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,60,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,46,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,30,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,31,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,53,Yellow
+S0084,"Madisen,",Kerdus,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,41,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,46,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,45,Red
+S0084,"Madisen,",Kerdus,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,54,Yellow
+S0084,"Madisen,",Kerdus,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,48,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,35,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,39,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,47,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,36,NA
+S0084,"Madisen,",Kerdus,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,44,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,60,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,63,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,62,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,64,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,59,Yellow
+S0085,"Ajanae,",Littlejohn,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,65,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,74,Green
+S0085,"Ajanae,",Littlejohn,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,56,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,63,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,60,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,67,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,56,NA
+S0085,"Ajanae,",Littlejohn,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,68,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,46,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,38,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,48,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,52,Yellow
+S0086,"Cheyenne,",Duong,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,40,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,40,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,42,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,31,Red
+S0086,"Cheyenne,",Duong,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,38,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,35,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,40,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,41,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,34,NA
+S0086,"Cheyenne,",Duong,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,32,NA
+S0087,"Brandt,",Weger,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,61,Green
+S0087,"Brandt,",Weger,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,66,Green
+S0087,"Brandt,",Weger,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,63,Green
+S0087,"Brandt,",Weger,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,72,Green
+S0087,"Brandt,",Weger,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,72,Green
+S0087,"Brandt,",Weger,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,69,Green
+S0087,"Brandt,",Weger,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,65,Green
+S0087,"Brandt,",Weger,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,71,Green
+S0087,"Brandt,",Weger,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,56,NA
+S0087,"Brandt,",Weger,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,60,NA
+S0087,"Brandt,",Weger,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,59,NA
+S0087,"Brandt,",Weger,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,71,NA
+S0087,"Brandt,",Weger,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,72,NA
+S0087,"Brandt,",Weger,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,72,NA
+S0088,Abdul,"Jabbaar,",2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,60,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,55,Yellow
+S0088,Abdul,"Jabbaar,",2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,70,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,65,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,62,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,61,Green
+S0088,Abdul,"Jabbaar,",2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,62,Green
+S0088,Abdul,"Jabbaar,",2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,62,NA
+S0088,Abdul,"Jabbaar,",2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,66,NA
+S0088,Abdul,"Jabbaar,",2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,68,NA
+S0088,Abdul,"Jabbaar,",2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,63,NA
+S0088,Abdul,"Jabbaar,",2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,67,NA
+S0088,Abdul,"Jabbaar,",2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,69,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,90,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,80,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,86,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,93,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,89,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,92,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,93,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,81,Green
+S0089,"Jordanna,",Carvalho,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,88,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,78,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,92,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,88,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,90,NA
+S0089,"Jordanna,",Carvalho,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,81,NA
+S0090,"Matthew,",Yetemegn,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,62,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,66,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,71,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,69,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,73,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,69,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,60,Green
+S0090,"Matthew,",Yetemegn,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,61,Green
+S0090,"Matthew,",Yetemegn,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,70,NA
+S0090,"Matthew,",Yetemegn,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,59,NA
+S0090,"Matthew,",Yetemegn,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,61,NA
+S0090,"Matthew,",Yetemegn,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,73,NA
+S0090,"Matthew,",Yetemegn,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,58,NA
+S0090,"Matthew,",Yetemegn,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,58,NA
+S0091,"Jada,",Buffone,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,86,Green
+S0091,"Jada,",Buffone,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,82,Green
+S0091,"Jada,",Buffone,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,90,Green
+S0091,"Jada,",Buffone,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,88,Green
+S0091,"Jada,",Buffone,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,90,Green
+S0091,"Jada,",Buffone,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,79,Green
+S0091,"Jada,",Buffone,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,83,Green
+S0091,"Jada,",Buffone,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,94,Green
+S0091,"Jada,",Buffone,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,83,NA
+S0091,"Jada,",Buffone,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,77,NA
+S0091,"Jada,",Buffone,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,86,NA
+S0091,"Jada,",Buffone,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,94,NA
+S0091,"Jada,",Buffone,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,92,NA
+S0091,"Jada,",Buffone,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,86,NA
+S0092,"Chakara,",Wauneka,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,70,Green
+S0092,"Chakara,",Wauneka,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,58,Yellow
+S0092,"Chakara,",Wauneka,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,57,Yellow
+S0092,"Chakara,",Wauneka,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,69,Green
+S0092,"Chakara,",Wauneka,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,64,Green
+S0092,"Chakara,",Wauneka,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,56,Yellow
+S0092,"Chakara,",Wauneka,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,73,Green
+S0092,"Chakara,",Wauneka,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,71,Green
+S0092,"Chakara,",Wauneka,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,64,NA
+S0092,"Chakara,",Wauneka,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,58,NA
+S0092,"Chakara,",Wauneka,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,71,NA
+S0092,"Chakara,",Wauneka,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,69,NA
+S0092,"Chakara,",Wauneka,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,63,NA
+S0092,"Chakara,",Wauneka,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,58,NA
+S0093,"Mario,",Romero,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,83,Green
+S0093,"Mario,",Romero,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,94,Green
+S0093,"Mario,",Romero,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,84,Green
+S0093,"Mario,",Romero,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,79,Green
+S0093,"Mario,",Romero,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,87,Green
+S0093,"Mario,",Romero,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,78,Green
+S0093,"Mario,",Romero,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,85,Green
+S0093,"Mario,",Romero,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,83,Green
+S0093,"Mario,",Romero,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,92,NA
+S0093,"Mario,",Romero,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,86,NA
+S0093,"Mario,",Romero,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,84,NA
+S0093,"Mario,",Romero,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,79,NA
+S0093,"Mario,",Romero,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,84,NA
+S0093,"Mario,",Romero,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,80,NA
+S0094,"Jasmine,",Harada,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,81,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,92,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,84,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,84,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,84,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,92,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,75,Green
+S0094,"Jasmine,",Harada,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,81,Green
+S0094,"Jasmine,",Harada,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,77,NA
+S0094,"Jasmine,",Harada,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,91,NA
+S0094,"Jasmine,",Harada,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,84,NA
+S0094,"Jasmine,",Harada,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,86,NA
+S0094,"Jasmine,",Harada,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,83,NA
+S0094,"Jasmine,",Harada,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,84,NA
+S0095,"Angel,",Rambo,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,71,Green
+S0095,"Angel,",Rambo,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,63,Green
+S0095,"Angel,",Rambo,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,67,Green
+S0095,"Angel,",Rambo,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,61,Green
+S0095,"Angel,",Rambo,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,58,Yellow
+S0095,"Angel,",Rambo,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,61,Green
+S0095,"Angel,",Rambo,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,59,Yellow
+S0095,"Angel,",Rambo,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,60,Green
+S0095,"Angel,",Rambo,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,65,NA
+S0095,"Angel,",Rambo,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,73,NA
+S0095,"Angel,",Rambo,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,67,NA
+S0095,"Angel,",Rambo,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,60,NA
+S0095,"Angel,",Rambo,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,62,NA
+S0095,"Angel,",Rambo,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,66,NA
+S0096,"David,",Repollo,2024,At-Risk,CBSE,2022-10-15,OB-20221015-1,NA,40,Red
+S0096,"David,",Repollo,2024,At-Risk,CBSE,2023-02-10,OB-20230210-1,NA,36,Red
+S0096,"David,",Repollo,2024,At-Risk,CBSSA,2023-04-20,OB-20230420-1,25,43,Red
+S0096,"David,",Repollo,2024,At-Risk,CBSSA,2023-05-25,OB-20230525-1,30,38,Red
+S0096,"David,",Repollo,2024,At-Risk,CCSE,2024-01-20,OB-20240120-1,NA,51,Yellow
+S0096,"David,",Repollo,2024,At-Risk,CCSE,2024-05-01,OB-20240501-1,NA,37,Red
+S0096,"David,",Repollo,2024,At-Risk,CCSSA,2024-06-01,OB-20240601-1,9,42,Red
+S0096,"David,",Repollo,2024,At-Risk,CCSSA,2024-06-25,OB-20240625-1,10,32,Red
+S0096,"David,",Repollo,2024,At-Risk,Family Medicine,2023-08-15,OB-20230815-1,NA,37,NA
+S0096,"David,",Repollo,2024,At-Risk,Internal Medicine,2023-10-10,OB-20231010-1,NA,51,NA
+S0096,"David,",Repollo,2024,At-Risk,Surgery,2024-01-10,OB-20240110-1,NA,42,NA
+S0096,"David,",Repollo,2024,At-Risk,ObGyn,2024-03-20,OB-20240320-1,NA,41,NA
+S0096,"David,",Repollo,2024,At-Risk,CAS Proctored,2023-11-15,OB-20231115-1,1,35,NA
+S0096,"David,",Repollo,2024,At-Risk,CAS Proctored,2024-03-15,OB-20240315-1,2,36,NA
+S0097,"Jose,",Chavez,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,64,Green
+S0097,"Jose,",Chavez,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,67,Green
+S0097,"Jose,",Chavez,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,57,Yellow
+S0097,"Jose,",Chavez,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,62,Green
+S0097,"Jose,",Chavez,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,55,Yellow
+S0097,"Jose,",Chavez,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,62,Green
+S0097,"Jose,",Chavez,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,71,Green
+S0097,"Jose,",Chavez,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,70,Green
+S0097,"Jose,",Chavez,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,71,NA
+S0097,"Jose,",Chavez,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,56,NA
+S0097,"Jose,",Chavez,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,58,NA
+S0097,"Jose,",Chavez,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,68,NA
+S0097,"Jose,",Chavez,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,63,NA
+S0097,"Jose,",Chavez,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,59,NA
+S0098,"Emily,",Moses,2024,High Performer,CBSE,2022-10-15,OB-20221015-1,NA,78,Green
+S0098,"Emily,",Moses,2024,High Performer,CBSE,2023-02-10,OB-20230210-1,NA,87,Green
+S0098,"Emily,",Moses,2024,High Performer,CBSSA,2023-04-20,OB-20230420-1,25,85,Green
+S0098,"Emily,",Moses,2024,High Performer,CBSSA,2023-05-25,OB-20230525-1,30,94,Green
+S0098,"Emily,",Moses,2024,High Performer,CCSE,2024-01-20,OB-20240120-1,NA,93,Green
+S0098,"Emily,",Moses,2024,High Performer,CCSE,2024-05-01,OB-20240501-1,NA,78,Green
+S0098,"Emily,",Moses,2024,High Performer,CCSSA,2024-06-01,OB-20240601-1,9,81,Green
+S0098,"Emily,",Moses,2024,High Performer,CCSSA,2024-06-25,OB-20240625-1,10,89,Green
+S0098,"Emily,",Moses,2024,High Performer,Family Medicine,2023-08-15,OB-20230815-1,NA,90,NA
+S0098,"Emily,",Moses,2024,High Performer,Internal Medicine,2023-10-10,OB-20231010-1,NA,85,NA
+S0098,"Emily,",Moses,2024,High Performer,Surgery,2024-01-10,OB-20240110-1,NA,80,NA
+S0098,"Emily,",Moses,2024,High Performer,ObGyn,2024-03-20,OB-20240320-1,NA,78,NA
+S0098,"Emily,",Moses,2024,High Performer,CAS Proctored,2023-11-15,OB-20231115-1,1,81,NA
+S0098,"Emily,",Moses,2024,High Performer,CAS Proctored,2024-03-15,OB-20240315-1,2,76,NA
+S0099,"Patrick,",Huff,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,69,Green
+S0099,"Patrick,",Huff,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,69,Green
+S0099,"Patrick,",Huff,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,68,Green
+S0099,"Patrick,",Huff,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,73,Green
+S0099,"Patrick,",Huff,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,59,Yellow
+S0099,"Patrick,",Huff,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,64,Green
+S0099,"Patrick,",Huff,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,56,Yellow
+S0099,"Patrick,",Huff,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,58,Yellow
+S0099,"Patrick,",Huff,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,69,NA
+S0099,"Patrick,",Huff,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,70,NA
+S0099,"Patrick,",Huff,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,64,NA
+S0099,"Patrick,",Huff,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,62,NA
+S0099,"Patrick,",Huff,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,65,NA
+S0099,"Patrick,",Huff,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,55,NA
+S0100,"William,",Longwolf,2024,Average,CBSE,2022-10-15,OB-20221015-1,NA,72,Green
+S0100,"William,",Longwolf,2024,Average,CBSE,2023-02-10,OB-20230210-1,NA,68,Green
+S0100,"William,",Longwolf,2024,Average,CBSSA,2023-04-20,OB-20230420-1,25,59,Yellow
+S0100,"William,",Longwolf,2024,Average,CBSSA,2023-05-25,OB-20230525-1,30,66,Green
+S0100,"William,",Longwolf,2024,Average,CCSE,2024-01-20,OB-20240120-1,NA,72,Green
+S0100,"William,",Longwolf,2024,Average,CCSE,2024-05-01,OB-20240501-1,NA,60,Green
+S0100,"William,",Longwolf,2024,Average,CCSSA,2024-06-01,OB-20240601-1,9,62,Green
+S0100,"William,",Longwolf,2024,Average,CCSSA,2024-06-25,OB-20240625-1,10,71,Green
+S0100,"William,",Longwolf,2024,Average,Family Medicine,2023-08-15,OB-20230815-1,NA,60,NA
+S0100,"William,",Longwolf,2024,Average,Internal Medicine,2023-10-10,OB-20231010-1,NA,57,NA
+S0100,"William,",Longwolf,2024,Average,Surgery,2024-01-10,OB-20240110-1,NA,63,NA
+S0100,"William,",Longwolf,2024,Average,ObGyn,2024-03-20,OB-20240320-1,NA,59,NA
+S0100,"William,",Longwolf,2024,Average,CAS Proctored,2023-11-15,OB-20231115-1,1,68,NA
+S0100,"William,",Longwolf,2024,Average,CAS Proctored,2024-03-15,OB-20240315-1,2,67,NA
+S0101,"Aaron,",Israel,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,53,Yellow
+S0101,"Aaron,",Israel,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,43,Red
+S0101,"Aaron,",Israel,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,42,Red
+S0101,"Aaron,",Israel,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,40,Red
+S0101,"Aaron,",Israel,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,52,NA
+S0101,"Aaron,",Israel,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,53,NA
+S0101,"Aaron,",Israel,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,37,NA
+S0101,"Aaron,",Israel,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,51,NA
+S0101,"Aaron,",Israel,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,42,NA
+S0101,"Aaron,",Israel,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,46,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,40,Red
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,32,Red
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,34,Red
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,31,Red
+S0102,"Elisabeth,",Osborn,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,40,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,48,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,36,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,40,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,50,NA
+S0102,"Elisabeth,",Osborn,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,50,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,70,Green
+S0103,"Haniyya,",al-Shariff,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,57,Yellow
+S0103,"Haniyya,",al-Shariff,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,56,Yellow
+S0103,"Haniyya,",al-Shariff,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,62,Green
+S0103,"Haniyya,",al-Shariff,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,65,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,74,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,74,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,68,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,61,NA
+S0103,"Haniyya,",al-Shariff,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,66,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,76,Green
+S0104,"Numair,",al-Hashem,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,95,Green
+S0104,"Numair,",al-Hashem,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,79,Green
+S0104,"Numair,",al-Hashem,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,81,Green
+S0104,"Numair,",al-Hashem,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,77,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,87,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,88,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,95,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,79,NA
+S0104,"Numair,",al-Hashem,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,91,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,66,Green
+S0105,"Thanaa,",al-Tahir,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,67,Green
+S0105,"Thanaa,",al-Tahir,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,67,Green
+S0105,"Thanaa,",al-Tahir,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,73,Green
+S0105,"Thanaa,",al-Tahir,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,64,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,60,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,65,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,56,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,68,NA
+S0105,"Thanaa,",al-Tahir,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,70,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,41,Red
+S0106,"Brittany,",Reynolds,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,43,Red
+S0106,"Brittany,",Reynolds,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,54,Yellow
+S0106,"Brittany,",Reynolds,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,47,Red
+S0106,"Brittany,",Reynolds,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,51,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,40,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,52,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,31,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,39,NA
+S0106,"Brittany,",Reynolds,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,47,NA
+S0107,"Bryan,",Winter,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,56,Yellow
+S0107,"Bryan,",Winter,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,73,Green
+S0107,"Bryan,",Winter,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,65,Green
+S0107,"Bryan,",Winter,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,62,Green
+S0107,"Bryan,",Winter,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,71,NA
+S0107,"Bryan,",Winter,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,71,NA
+S0107,"Bryan,",Winter,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,71,NA
+S0107,"Bryan,",Winter,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,66,NA
+S0107,"Bryan,",Winter,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,57,NA
+S0107,"Bryan,",Winter,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,73,NA
+S0108,"Richard,",Mai,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,77,Green
+S0108,"Richard,",Mai,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,77,Green
+S0108,"Richard,",Mai,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,84,Green
+S0108,"Richard,",Mai,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,91,Green
+S0108,"Richard,",Mai,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,93,NA
+S0108,"Richard,",Mai,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,84,NA
+S0108,"Richard,",Mai,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,91,NA
+S0108,"Richard,",Mai,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,84,NA
+S0108,"Richard,",Mai,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,89,NA
+S0108,"Richard,",Mai,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,90,NA
+S0109,"Alan,",Bhattacharya,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,58,Yellow
+S0109,"Alan,",Bhattacharya,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,69,Green
+S0109,"Alan,",Bhattacharya,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,57,Yellow
+S0109,"Alan,",Bhattacharya,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,56,Yellow
+S0109,"Alan,",Bhattacharya,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,55,NA
+S0109,"Alan,",Bhattacharya,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,68,NA
+S0109,"Alan,",Bhattacharya,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,69,NA
+S0109,"Alan,",Bhattacharya,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,59,NA
+S0109,"Alan,",Bhattacharya,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,71,NA
+S0109,"Alan,",Bhattacharya,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,71,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,78,Green
+S0110,"Waynoka,",Campbell,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,86,Green
+S0110,"Waynoka,",Campbell,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,90,Green
+S0110,"Waynoka,",Campbell,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,77,Green
+S0110,"Waynoka,",Campbell,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,77,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,86,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,81,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,84,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,77,NA
+S0110,"Waynoka,",Campbell,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,93,NA
+S0111,"Lucy,",Oh,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,69,Green
+S0111,"Lucy,",Oh,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,66,Green
+S0111,"Lucy,",Oh,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,73,Green
+S0111,"Lucy,",Oh,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,70,Green
+S0111,"Lucy,",Oh,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,68,NA
+S0111,"Lucy,",Oh,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,58,NA
+S0111,"Lucy,",Oh,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,64,NA
+S0111,"Lucy,",Oh,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,64,NA
+S0111,"Lucy,",Oh,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,58,NA
+S0111,"Lucy,",Oh,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,72,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,90,Green
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,86,Green
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,75,Green
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,82,Green
+S0112,"Cheyenne,",Archuleta,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,84,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,83,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,86,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,92,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,90,NA
+S0112,"Cheyenne,",Archuleta,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,76,NA
+S0113,"Jill,",Fahey,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,66,Green
+S0113,"Jill,",Fahey,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,60,Green
+S0113,"Jill,",Fahey,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,61,Green
+S0113,"Jill,",Fahey,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,55,Yellow
+S0113,"Jill,",Fahey,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,61,NA
+S0113,"Jill,",Fahey,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,69,NA
+S0113,"Jill,",Fahey,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,56,NA
+S0113,"Jill,",Fahey,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,74,NA
+S0113,"Jill,",Fahey,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,71,NA
+S0113,"Jill,",Fahey,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,73,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,49,Red
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,46,Red
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,50,Yellow
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,43,Red
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,41,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,42,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,32,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,45,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,46,NA
+S0114,"Byungchan,",Hallenbeck,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,34,NA
+S0115,"Timothee,",Lee,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,58,Yellow
+S0115,"Timothee,",Lee,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,66,Green
+S0115,"Timothee,",Lee,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,56,Yellow
+S0115,"Timothee,",Lee,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,71,Green
+S0115,"Timothee,",Lee,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,72,NA
+S0115,"Timothee,",Lee,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,59,NA
+S0115,"Timothee,",Lee,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,66,NA
+S0115,"Timothee,",Lee,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,67,NA
+S0115,"Timothee,",Lee,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,58,NA
+S0115,"Timothee,",Lee,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,69,NA
+S0116,"Crysta,",Adams,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,87,Green
+S0116,"Crysta,",Adams,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,94,Green
+S0116,"Crysta,",Adams,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,93,Green
+S0116,"Crysta,",Adams,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,83,Green
+S0116,"Crysta,",Adams,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,89,NA
+S0116,"Crysta,",Adams,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,92,NA
+S0116,"Crysta,",Adams,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,93,NA
+S0116,"Crysta,",Adams,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,78,NA
+S0116,"Crysta,",Adams,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,76,NA
+S0116,"Crysta,",Adams,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,95,NA
+S0117,"Alea,",Montoya,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,83,Green
+S0117,"Alea,",Montoya,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,89,Green
+S0117,"Alea,",Montoya,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,86,Green
+S0117,"Alea,",Montoya,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,83,Green
+S0117,"Alea,",Montoya,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,89,NA
+S0117,"Alea,",Montoya,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,93,NA
+S0117,"Alea,",Montoya,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,77,NA
+S0117,"Alea,",Montoya,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,82,NA
+S0117,"Alea,",Montoya,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,91,NA
+S0117,"Alea,",Montoya,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,79,NA
+S0118,"Julia,",Vardas,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,58,Yellow
+S0118,"Julia,",Vardas,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,73,Green
+S0118,"Julia,",Vardas,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,66,Green
+S0118,"Julia,",Vardas,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,73,Green
+S0118,"Julia,",Vardas,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,75,NA
+S0118,"Julia,",Vardas,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,66,NA
+S0118,"Julia,",Vardas,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,62,NA
+S0118,"Julia,",Vardas,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,68,NA
+S0118,"Julia,",Vardas,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,72,NA
+S0118,"Julia,",Vardas,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,75,NA
+S0119,"Alan,",Dahal,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,63,Green
+S0119,"Alan,",Dahal,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,70,Green
+S0119,"Alan,",Dahal,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,61,Green
+S0119,"Alan,",Dahal,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,64,Green
+S0119,"Alan,",Dahal,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,60,NA
+S0119,"Alan,",Dahal,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,69,NA
+S0119,"Alan,",Dahal,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,63,NA
+S0119,"Alan,",Dahal,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,69,NA
+S0119,"Alan,",Dahal,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,74,NA
+S0119,"Alan,",Dahal,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,56,NA
+S0120,"Hope,",Wall,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,67,Green
+S0120,"Hope,",Wall,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,70,Green
+S0120,"Hope,",Wall,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,69,Green
+S0120,"Hope,",Wall,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,72,Green
+S0120,"Hope,",Wall,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,71,NA
+S0120,"Hope,",Wall,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,73,NA
+S0120,"Hope,",Wall,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,75,NA
+S0120,"Hope,",Wall,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,66,NA
+S0120,"Hope,",Wall,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,71,NA
+S0120,"Hope,",Wall,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,67,NA
+S0121,"Jose,",Duran,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,83,Green
+S0121,"Jose,",Duran,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,90,Green
+S0121,"Jose,",Duran,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,91,Green
+S0121,"Jose,",Duran,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,79,Green
+S0121,"Jose,",Duran,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,76,NA
+S0121,"Jose,",Duran,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,82,NA
+S0121,"Jose,",Duran,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,89,NA
+S0121,"Jose,",Duran,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,90,NA
+S0121,"Jose,",Duran,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,88,NA
+S0121,"Jose,",Duran,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,94,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,54,Yellow
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,32,Red
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,33,Red
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,41,Red
+S0122,"Nadheera,",el-Awan,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,48,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,39,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,38,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,48,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,47,NA
+S0122,"Nadheera,",el-Awan,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,49,NA
+S0123,"Sepehr,",Tran,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,68,Green
+S0123,"Sepehr,",Tran,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,70,Green
+S0123,"Sepehr,",Tran,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,67,Green
+S0123,"Sepehr,",Tran,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,64,Green
+S0123,"Sepehr,",Tran,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,59,NA
+S0123,"Sepehr,",Tran,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,64,NA
+S0123,"Sepehr,",Tran,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,70,NA
+S0123,"Sepehr,",Tran,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,60,NA
+S0123,"Sepehr,",Tran,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,69,NA
+S0123,"Sepehr,",Tran,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,71,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,63,Green
+S0124,"Muneer,",al-Shakoor,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,61,Green
+S0124,"Muneer,",al-Shakoor,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,57,Yellow
+S0124,"Muneer,",al-Shakoor,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,65,Green
+S0124,"Muneer,",al-Shakoor,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,70,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,65,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,73,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,55,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,73,NA
+S0124,"Muneer,",al-Shakoor,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,67,NA
+S0125,"Merrick,",Hoffman,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,71,Green
+S0125,"Merrick,",Hoffman,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,64,Green
+S0125,"Merrick,",Hoffman,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,61,Green
+S0125,"Merrick,",Hoffman,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,63,Green
+S0125,"Merrick,",Hoffman,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,61,NA
+S0125,"Merrick,",Hoffman,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,57,NA
+S0125,"Merrick,",Hoffman,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,61,NA
+S0125,"Merrick,",Hoffman,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,61,NA
+S0125,"Merrick,",Hoffman,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,62,NA
+S0125,"Merrick,",Hoffman,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,55,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,33,Red
+S0126,"Madeline,",Dettmann,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,43,Red
+S0126,"Madeline,",Dettmann,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,38,Red
+S0126,"Madeline,",Dettmann,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,44,Red
+S0126,"Madeline,",Dettmann,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,35,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,54,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,40,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,50,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,37,NA
+S0126,"Madeline,",Dettmann,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,43,NA
+S0127,"Madison,",Miller,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,66,Green
+S0127,"Madison,",Miller,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,57,Yellow
+S0127,"Madison,",Miller,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,55,Yellow
+S0127,"Madison,",Miller,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,64,Green
+S0127,"Madison,",Miller,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,59,NA
+S0127,"Madison,",Miller,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,71,NA
+S0127,"Madison,",Miller,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,65,NA
+S0127,"Madison,",Miller,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,66,NA
+S0127,"Madison,",Miller,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,74,NA
+S0127,"Madison,",Miller,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,57,NA
+S0128,"Chanse,",Knight,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,55,Yellow
+S0128,"Chanse,",Knight,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,66,Green
+S0128,"Chanse,",Knight,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,57,Yellow
+S0128,"Chanse,",Knight,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,60,Green
+S0128,"Chanse,",Knight,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,58,NA
+S0128,"Chanse,",Knight,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,58,NA
+S0128,"Chanse,",Knight,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,66,NA
+S0128,"Chanse,",Knight,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,56,NA
+S0128,"Chanse,",Knight,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,68,NA
+S0128,"Chanse,",Knight,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,70,NA
+S0129,"Juan,",Garcia,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,62,Green
+S0129,"Juan,",Garcia,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,69,Green
+S0129,"Juan,",Garcia,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,56,Yellow
+S0129,"Juan,",Garcia,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,67,Green
+S0129,"Juan,",Garcia,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,60,NA
+S0129,"Juan,",Garcia,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,59,NA
+S0129,"Juan,",Garcia,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,61,NA
+S0129,"Juan,",Garcia,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,67,NA
+S0129,"Juan,",Garcia,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,63,NA
+S0129,"Juan,",Garcia,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,68,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,35,Red
+S0130,"Brendon,",Hasan,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,32,Red
+S0130,"Brendon,",Hasan,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,37,Red
+S0130,"Brendon,",Hasan,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,35,Red
+S0130,"Brendon,",Hasan,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,48,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,43,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,47,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,34,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,50,NA
+S0130,"Brendon,",Hasan,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,35,NA
+S0131,"Sara,",Chaffin,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,84,Green
+S0131,"Sara,",Chaffin,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,77,Green
+S0131,"Sara,",Chaffin,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,93,Green
+S0131,"Sara,",Chaffin,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,79,Green
+S0131,"Sara,",Chaffin,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,90,NA
+S0131,"Sara,",Chaffin,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,84,NA
+S0131,"Sara,",Chaffin,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,88,NA
+S0131,"Sara,",Chaffin,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,79,NA
+S0131,"Sara,",Chaffin,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,93,NA
+S0131,"Sara,",Chaffin,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,76,NA
+S0132,"Muammar,",el-Amiri,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,64,Green
+S0132,"Muammar,",el-Amiri,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,61,Green
+S0132,"Muammar,",el-Amiri,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,74,Green
+S0132,"Muammar,",el-Amiri,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,69,Green
+S0132,"Muammar,",el-Amiri,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,70,NA
+S0132,"Muammar,",el-Amiri,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,55,NA
+S0132,"Muammar,",el-Amiri,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,63,NA
+S0132,"Muammar,",el-Amiri,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,64,NA
+S0132,"Muammar,",el-Amiri,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,57,NA
+S0132,"Muammar,",el-Amiri,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,60,NA
+S0133,"Ashley,",Brink,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,58,Yellow
+S0133,"Ashley,",Brink,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,63,Green
+S0133,"Ashley,",Brink,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,59,Yellow
+S0133,"Ashley,",Brink,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,65,Green
+S0133,"Ashley,",Brink,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,73,NA
+S0133,"Ashley,",Brink,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,65,NA
+S0133,"Ashley,",Brink,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,64,NA
+S0133,"Ashley,",Brink,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,61,NA
+S0133,"Ashley,",Brink,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,59,NA
+S0133,"Ashley,",Brink,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,56,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,71,Green
+S0134,"Jazmyn,",Nguyen,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,74,Green
+S0134,"Jazmyn,",Nguyen,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,73,Green
+S0134,"Jazmyn,",Nguyen,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,61,Green
+S0134,"Jazmyn,",Nguyen,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,60,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,61,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,62,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,67,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,68,NA
+S0134,"Jazmyn,",Nguyen,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,57,NA
+S0135,"Shania,",Chavez,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,37,Red
+S0135,"Shania,",Chavez,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,54,Yellow
+S0135,"Shania,",Chavez,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,39,Red
+S0135,"Shania,",Chavez,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,34,Red
+S0135,"Shania,",Chavez,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,51,NA
+S0135,"Shania,",Chavez,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,51,NA
+S0135,"Shania,",Chavez,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,39,NA
+S0135,"Shania,",Chavez,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,47,NA
+S0135,"Shania,",Chavez,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,42,NA
+S0135,"Shania,",Chavez,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,34,NA
+S0136,"Shaundra,",Zhang,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,69,Green
+S0136,"Shaundra,",Zhang,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,63,Green
+S0136,"Shaundra,",Zhang,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,65,Green
+S0136,"Shaundra,",Zhang,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,70,Green
+S0136,"Shaundra,",Zhang,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,70,NA
+S0136,"Shaundra,",Zhang,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,64,NA
+S0136,"Shaundra,",Zhang,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,63,NA
+S0136,"Shaundra,",Zhang,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,63,NA
+S0136,"Shaundra,",Zhang,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,68,NA
+S0136,"Shaundra,",Zhang,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,69,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,91,Green
+S0137,"Tiffany,",Nelson,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,78,Green
+S0137,"Tiffany,",Nelson,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,83,Green
+S0137,"Tiffany,",Nelson,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,89,Green
+S0137,"Tiffany,",Nelson,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,76,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,82,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,91,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,92,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,92,NA
+S0137,"Tiffany,",Nelson,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,94,NA
+S0138,"Kayla,",Schoonover,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,68,Green
+S0138,"Kayla,",Schoonover,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,70,Green
+S0138,"Kayla,",Schoonover,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,66,Green
+S0138,"Kayla,",Schoonover,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,65,Green
+S0138,"Kayla,",Schoonover,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,70,NA
+S0138,"Kayla,",Schoonover,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,73,NA
+S0138,"Kayla,",Schoonover,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,72,NA
+S0138,"Kayla,",Schoonover,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,65,NA
+S0138,"Kayla,",Schoonover,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,71,NA
+S0138,"Kayla,",Schoonover,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,59,NA
+S0139,"Maggie,",Easton,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,49,Red
+S0139,"Maggie,",Easton,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,37,Red
+S0139,"Maggie,",Easton,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,53,Yellow
+S0139,"Maggie,",Easton,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,42,Red
+S0139,"Maggie,",Easton,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,32,NA
+S0139,"Maggie,",Easton,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,39,NA
+S0139,"Maggie,",Easton,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,48,NA
+S0139,"Maggie,",Easton,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,42,NA
+S0139,"Maggie,",Easton,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,49,NA
+S0139,"Maggie,",Easton,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,37,NA
+S0140,"Sage,",Rondeau,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,56,Yellow
+S0140,"Sage,",Rondeau,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,70,Green
+S0140,"Sage,",Rondeau,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,69,Green
+S0140,"Sage,",Rondeau,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,58,Yellow
+S0140,"Sage,",Rondeau,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,67,NA
+S0140,"Sage,",Rondeau,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,68,NA
+S0140,"Sage,",Rondeau,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,62,NA
+S0140,"Sage,",Rondeau,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,69,NA
+S0140,"Sage,",Rondeau,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,66,NA
+S0140,"Sage,",Rondeau,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,61,NA
+S0141,"Teresa,",Cox,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,73,Green
+S0141,"Teresa,",Cox,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,56,Yellow
+S0141,"Teresa,",Cox,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,73,Green
+S0141,"Teresa,",Cox,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,71,Green
+S0141,"Teresa,",Cox,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,61,NA
+S0141,"Teresa,",Cox,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,63,NA
+S0141,"Teresa,",Cox,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,65,NA
+S0141,"Teresa,",Cox,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,66,NA
+S0141,"Teresa,",Cox,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,56,NA
+S0141,"Teresa,",Cox,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,61,NA
+S0142,"Sydney,",Haun,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,39,Red
+S0142,"Sydney,",Haun,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,39,Red
+S0142,"Sydney,",Haun,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,42,Red
+S0142,"Sydney,",Haun,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,53,Yellow
+S0142,"Sydney,",Haun,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,30,NA
+S0142,"Sydney,",Haun,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,33,NA
+S0142,"Sydney,",Haun,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,46,NA
+S0142,"Sydney,",Haun,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,36,NA
+S0142,"Sydney,",Haun,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,37,NA
+S0142,"Sydney,",Haun,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,52,NA
+S0143,"Savannah,",Jessee,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,90,Green
+S0143,"Savannah,",Jessee,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,89,Green
+S0143,"Savannah,",Jessee,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,92,Green
+S0143,"Savannah,",Jessee,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,77,Green
+S0143,"Savannah,",Jessee,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,87,NA
+S0143,"Savannah,",Jessee,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,80,NA
+S0143,"Savannah,",Jessee,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,84,NA
+S0143,"Savannah,",Jessee,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,81,NA
+S0143,"Savannah,",Jessee,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,93,NA
+S0143,"Savannah,",Jessee,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,83,NA
+S0144,"David,",Heideman,2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,43,Red
+S0144,"David,",Heideman,2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,41,Red
+S0144,"David,",Heideman,2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,48,Red
+S0144,"David,",Heideman,2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,37,Red
+S0144,"David,",Heideman,2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,38,NA
+S0144,"David,",Heideman,2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,33,NA
+S0144,"David,",Heideman,2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,53,NA
+S0144,"David,",Heideman,2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,54,NA
+S0144,"David,",Heideman,2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,39,NA
+S0144,"David,",Heideman,2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,43,NA
+S0145,Eun,"Sol,",2025,At-Risk,CBSE,2023-10-15,OB-20231015-1,NA,37,Red
+S0145,Eun,"Sol,",2025,At-Risk,CBSE,2024-02-10,OB-20240210-1,NA,34,Red
+S0145,Eun,"Sol,",2025,At-Risk,CBSSA,2024-04-20,OB-20240420-1,25,51,Yellow
+S0145,Eun,"Sol,",2025,At-Risk,CBSSA,2024-05-25,OB-20240525-1,30,41,Red
+S0145,Eun,"Sol,",2025,At-Risk,Family Medicine,2024-08-15,OB-20240815-1,NA,52,NA
+S0145,Eun,"Sol,",2025,At-Risk,Internal Medicine,2024-10-10,OB-20241010-1,NA,46,NA
+S0145,Eun,"Sol,",2025,At-Risk,Surgery,2025-01-10,OB-20250110-1,NA,49,NA
+S0145,Eun,"Sol,",2025,At-Risk,ObGyn,2025-03-20,OB-20250320-1,NA,31,NA
+S0145,Eun,"Sol,",2025,At-Risk,CAS Proctored,2024-11-15,OB-20241115-1,1,45,NA
+S0145,Eun,"Sol,",2025,At-Risk,CAS Proctored,2025-03-15,OB-20250315-1,2,31,NA
+S0146,"Maazina,",al-Moussa,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,71,Green
+S0146,"Maazina,",al-Moussa,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,60,Green
+S0146,"Maazina,",al-Moussa,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,61,Green
+S0146,"Maazina,",al-Moussa,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,74,Green
+S0146,"Maazina,",al-Moussa,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,65,NA
+S0146,"Maazina,",al-Moussa,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,74,NA
+S0146,"Maazina,",al-Moussa,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,72,NA
+S0146,"Maazina,",al-Moussa,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,75,NA
+S0146,"Maazina,",al-Moussa,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,57,NA
+S0146,"Maazina,",al-Moussa,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,61,NA
+S0147,"Aspen,",Rowlett,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,74,Green
+S0147,"Aspen,",Rowlett,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,68,Green
+S0147,"Aspen,",Rowlett,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,75,Green
+S0147,"Aspen,",Rowlett,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,74,Green
+S0147,"Aspen,",Rowlett,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,70,NA
+S0147,"Aspen,",Rowlett,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,63,NA
+S0147,"Aspen,",Rowlett,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,68,NA
+S0147,"Aspen,",Rowlett,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,60,NA
+S0147,"Aspen,",Rowlett,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,61,NA
+S0147,"Aspen,",Rowlett,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,72,NA
+S0148,"Randall,",Watts,2025,High Performer,CBSE,2023-10-15,OB-20231015-1,NA,81,Green
+S0148,"Randall,",Watts,2025,High Performer,CBSE,2024-02-10,OB-20240210-1,NA,94,Green
+S0148,"Randall,",Watts,2025,High Performer,CBSSA,2024-04-20,OB-20240420-1,25,77,Green
+S0148,"Randall,",Watts,2025,High Performer,CBSSA,2024-05-25,OB-20240525-1,30,89,Green
+S0148,"Randall,",Watts,2025,High Performer,Family Medicine,2024-08-15,OB-20240815-1,NA,91,NA
+S0148,"Randall,",Watts,2025,High Performer,Internal Medicine,2024-10-10,OB-20241010-1,NA,79,NA
+S0148,"Randall,",Watts,2025,High Performer,Surgery,2025-01-10,OB-20250110-1,NA,87,NA
+S0148,"Randall,",Watts,2025,High Performer,ObGyn,2025-03-20,OB-20250320-1,NA,78,NA
+S0148,"Randall,",Watts,2025,High Performer,CAS Proctored,2024-11-15,OB-20241115-1,1,83,NA
+S0148,"Randall,",Watts,2025,High Performer,CAS Proctored,2025-03-15,OB-20250315-1,2,80,NA
+S0149,"Shanta,",Pinto,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,70,Green
+S0149,"Shanta,",Pinto,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,73,Green
+S0149,"Shanta,",Pinto,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,73,Green
+S0149,"Shanta,",Pinto,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,57,Yellow
+S0149,"Shanta,",Pinto,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,75,NA
+S0149,"Shanta,",Pinto,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,73,NA
+S0149,"Shanta,",Pinto,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,60,NA
+S0149,"Shanta,",Pinto,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,73,NA
+S0149,"Shanta,",Pinto,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,72,NA
+S0149,"Shanta,",Pinto,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,64,NA
+S0150,"Tesia,",Maag,2025,Average,CBSE,2023-10-15,OB-20231015-1,NA,57,Yellow
+S0150,"Tesia,",Maag,2025,Average,CBSE,2024-02-10,OB-20240210-1,NA,72,Green
+S0150,"Tesia,",Maag,2025,Average,CBSSA,2024-04-20,OB-20240420-1,25,61,Green
+S0150,"Tesia,",Maag,2025,Average,CBSSA,2024-05-25,OB-20240525-1,30,60,Green
+S0150,"Tesia,",Maag,2025,Average,Family Medicine,2024-08-15,OB-20240815-1,NA,72,NA
+S0150,"Tesia,",Maag,2025,Average,Internal Medicine,2024-10-10,OB-20241010-1,NA,75,NA
+S0150,"Tesia,",Maag,2025,Average,Surgery,2025-01-10,OB-20250110-1,NA,60,NA
+S0150,"Tesia,",Maag,2025,Average,ObGyn,2025-03-20,OB-20250320-1,NA,57,NA
+S0150,"Tesia,",Maag,2025,Average,CAS Proctored,2024-11-15,OB-20241115-1,1,68,NA
+S0150,"Tesia,",Maag,2025,Average,CAS Proctored,2025-03-15,OB-20250315-1,2,72,NA
